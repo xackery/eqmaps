@@ -1,0 +1,2 @@
+# eqmaps
+Everquest Maps Snapshot
